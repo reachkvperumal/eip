@@ -10,4 +10,4 @@ demo of enterprise integration patterns
  Then it notifies the consumer using CachedThreadPool (Strictly for demo purpose)
 
 ```
-![Demo.png](..%2F..%2FDesktop%2FDemo.png)
+![Demo.png](images%2FDemo.png)
