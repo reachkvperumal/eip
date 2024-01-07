@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: EIP
+server:
+  port: 8080
+
+controller:
+  path: /api/notification
+  broadcast: /api/broadcast
+
+endpoint:
+  portal: http://localhost:8081/api/v1/portal
+  alerts: http://localhost:8081/api/v1/outbound
